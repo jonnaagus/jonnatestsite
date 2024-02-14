@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/jonnaagus/jonnatestsite/static/css/main.5548dbd2.css",
-    "main.js": "/jonnaagus/jonnatestsite/static/js/main.2956d2b9.js",
-    "static/js/592.724ea425.chunk.js": "/jonnaagus/jonnatestsite/static/js/592.724ea425.chunk.js",
-    "index.html": "/jonnaagus/jonnatestsite/index.html",
-    "main.5548dbd2.css.map": "/jonnaagus/jonnatestsite/static/css/main.5548dbd2.css.map",
-    "main.2956d2b9.js.map": "/jonnaagus/jonnatestsite/static/js/main.2956d2b9.js.map",
-    "592.724ea425.chunk.js.map": "/jonnaagus/jonnatestsite/static/js/592.724ea425.chunk.js.map"
+    "main.css": "/jonnaagus.github.io/jonnatestsite/static/css/main.5548dbd2.css",
+    "main.js": "/jonnaagus.github.io/jonnatestsite/static/js/main.9606415e.js",
+    "static/js/592.724ea425.chunk.js": "/jonnaagus.github.io/jonnatestsite/static/js/592.724ea425.chunk.js",
+    "index.html": "/jonnaagus.github.io/jonnatestsite/index.html",
+    "main.5548dbd2.css.map": "/jonnaagus.github.io/jonnatestsite/static/css/main.5548dbd2.css.map",
+    "main.9606415e.js.map": "/jonnaagus.github.io/jonnatestsite/static/js/main.9606415e.js.map",
+    "592.724ea425.chunk.js.map": "/jonnaagus.github.io/jonnatestsite/static/js/592.724ea425.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5548dbd2.css",
-    "static/js/main.2956d2b9.js"
+    "static/js/main.9606415e.js"
   ]
 }
