@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/jonnaagus/jonnatestsite/static/css/main.5548dbd2.css",
+    "main.js": "/jonnaagus/jonnatestsite/static/js/main.1adaec4f.js",
+    "static/js/592.724ea425.chunk.js": "/jonnaagus/jonnatestsite/static/js/592.724ea425.chunk.js",
+    "index.html": "/jonnaagus/jonnatestsite/index.html",
+    "main.5548dbd2.css.map": "/jonnaagus/jonnatestsite/static/css/main.5548dbd2.css.map",
+    "main.1adaec4f.js.map": "/jonnaagus/jonnatestsite/static/js/main.1adaec4f.js.map",
+    "592.724ea425.chunk.js.map": "/jonnaagus/jonnatestsite/static/js/592.724ea425.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5548dbd2.css",
+    "static/js/main.1adaec4f.js"
+  ]
+}
